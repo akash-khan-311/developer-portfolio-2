@@ -22,7 +22,7 @@ a {
     font-weight: bold;
 }
 
-section {
+.flexible-container {
     display: flex;
     margin-bottom: 150px;
 }
